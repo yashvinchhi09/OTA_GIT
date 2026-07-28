@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
-  "file_size": 927272,
-  "fw_path": "/yashvinchhi09/OTA_GIT/blob/main/zephyr.signed.bin",
-  "sha256": "145e8ab2b61c4adfc28dc7480ea661d9d89ff2bd2cbd131bc3e3d48e709ccf41",
-  "crc32": "8c916928"
+  "fw_path": "/yashvinchhi09/OTA_GIT/main/zephyr.signed.bin",
+  "file_size": 927268,
+  "sha256": "6668f3ea72f97a148ce613e9cc5e3d08eb1a4fe8aa1da32a7bbec4c22fde7d30",
+  "crc32": "0e2724ce"
 }
